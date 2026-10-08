@@ -1,0 +1,900 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-10-0312855477",
+    "Date": "2026-10-03",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 48,
+    "Source": "legacy-data-collection",
+    "SheetId": "1iroBkf0pgdHX6agh4kqC4THjKFEpNzcx3q-dDF5KbbU"
+  },
+  "Players": [
+    {
+      "Player": "CardGameAddict",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "djjankolive",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "l337erhosen",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "alexeezayyy",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Marmotte_Lambda",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "ejk",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "piao",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "TrueFuturism",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "WeareVenom",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "ReformedPaolo",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "azmyk1231",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "nao_xx",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "ironclaw2016",
+      "Archetype": "Blue Cloudpost"
+    },
+    {
+      "Player": "SquidOdoom",
+      "Archetype": "The EPIC Gamble"
+    },
+    {
+      "Player": "Vlalutscher",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "VintageCulture",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "BG_HoLex",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "BasqueKiwi",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "Gogo1984",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Fenrir18",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "the_crisp_one",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Terminus0",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Oceansoul92",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Zolgia108",
+      "Archetype": "Black Stompy"
+    },
+    {
+      "Player": "SmokyboyJFF",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Wangei1",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "IsmaelDenolisos",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Didackith",
+      "Archetype": "Loam Pox"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "JustCallMeJick",
+      "Archetype": "Unknown Deck"
+    },
+    {
+      "Player": "L4rss0n",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "Kuranari-Jackpa",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Hodibert",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "Sol-e22558",
+      "Archetype": "Selesnya Depths"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "IsmaelDenolisos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "alexeezayyy",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "nekoyama2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BG_HoLex",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Zolgia108",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "TrueFuturism",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Didackith",
+          "Player2": "Hodibert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "JustCallMeJick",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Fenrir18",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ironclaw2016",
+          "Player2": "Vlalutscher",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "Oceansoul92",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "L4rss0n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "JPA93",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "the_crisp_one",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "Gogo1984",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Wangei1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Terminus0",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "VintageCulture",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SquidOdoom",
+          "Player2": "BasqueKiwi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "azmyk1231",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BG_HoLex",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "Ark4n",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "BasqueKiwi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "4FunNoWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Gogo1984",
+          "Player2": "Wangei1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Oceansoul92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "alexeezayyy",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "nekoyama2",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Didackith",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Hodibert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Fenrir18",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "ironclaw2016",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SquidOdoom",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "the_crisp_one",
+          "Player2": "Zolgia108",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TrueFuturism",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "VintageCulture",
+          "Player2": "IsmaelDenolisos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vlalutscher",
+          "Player2": "Ryuho090",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Zolgia108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "BG_HoLex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "BasqueKiwi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "nao_xx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fenrir18",
+          "Player2": "Wangei1",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Gogo1984",
+          "Player2": "Didackith",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "piao",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ironclaw2016",
+          "Player2": "VintageCulture",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "IsmaelDenolisos",
+          "Player2": "Hodibert",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "nekoyama2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "alexeezayyy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Marmotte_Lambda",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Oceansoul92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SmokyboyJFF",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SquidOdoom",
+          "Player2": "Vlalutscher",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "the_crisp_one",
+          "Player2": "Sol-e22558",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueFuturism",
+          "Player2": "Terminus0",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "ReformedPaolo",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "boytriton",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "alexeezayyy",
+          "Player2": "BasqueKiwi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "SquidOdoom",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "VintageCulture",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "Marmotte_Lambda",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Fenrir18",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "l337erhosen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ironclaw2016",
+          "Player2": "BG_HoLex",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "Wangei1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "nekoyama2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "the_crisp_one",
+          "Player2": "IsmaelDenolisos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueFuturism",
+          "Player2": "Gogo1984",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vlalutscher",
+          "Player2": "Terminus0",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "OSCA66",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "alexeezayyy",
+          "Player2": "ejk",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "the_crisp_one",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "azmyk1231",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BG_HoLex",
+          "Player2": "IsmaelDenolisos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "clan",
+          "Player2": "SquidOdoom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "TrueFuturism",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Fenrir18",
+          "Player2": "SmokyboyJFF",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "_Batutinha_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "VintageCulture",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "ironclaw2016",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "Gogo1984",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Vlalutscher",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "BasqueKiwi",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "alexeezayyy",
+          "Player2": "clan",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Vlalutscher",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BG_HoLex",
+          "Player2": "the_crisp_one",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "_Batutinha_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "l337erhosen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ejk",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Marmotte_Lambda",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ironclaw2016",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "IsmaelDenolisos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "piao",
+          "Player2": "SquidOdoom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ReformedPaolo",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "BasqueKiwi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TrueFuturism",
+          "Player2": "azmyk1231",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "VintageCulture",
+          "Player2": "Fenrir18",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WeareVenom",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "alexeezayyy",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "l337erhosen",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "djjankolive",
+          "Player2": "l337erhosen",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "djjankolive",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

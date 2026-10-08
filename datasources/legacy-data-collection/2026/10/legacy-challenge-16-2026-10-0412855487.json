@@ -1,0 +1,542 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-16-2026-10-0412855487",
+    "Date": "2026-10-04",
+    "Name": "Legacy Challenge 16",
+    "PlayerCount": 30,
+    "Source": "legacy-data-collection",
+    "SheetId": "1mixFoJrzg7PuXJFlwUTR_YGbd1pz0cEYRjnAK_v1_zo"
+  },
+  "Players": [
+    {
+      "Player": "HJ_Kaiser",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "CorvOscuro92",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "JohnDoe397",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "himihimi",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "fatumi",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "phazonmutant",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "snoopy-magic",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "yolad",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "PedroPolukranos",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "rarakkyo",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Qweerios",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "cantillon",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Prim3Time",
+      "Archetype": "High Tide"
+    },
+    {
+      "Player": "Jlam23",
+      "Archetype": "Nic Fit"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "MikeEgan",
+      "Archetype": "Red Painter"
+    },
+    {
+      "Player": "MC_amp2267",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "JonDaBill",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "matyo804",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "DB_romariovidal",
+      "Archetype": "Other Permanent Combo"
+    },
+    {
+      "Player": "C_S_W____",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Kollslaw",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "2legit2quit",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Zolgia108",
+      "Archetype": "Black Midrange"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DB_romariovidal",
+          "Player2": "Zolgia108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "2legit2quit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "PedroPolukranos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "Kollslaw",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "rarakkyo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "habsburger",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "Eureka22422",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "JonDaBill",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "MC_amp2267",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "cantillon",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "matyo804",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "Jlam23",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "cantillon",
+          "Player2": "C_S_W____",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "fatumi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Eureka22422",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "himihimi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JonDaBill",
+          "Player2": "2legit2quit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "Kollslaw",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "Jlam23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "DB_romariovidal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "MC_amp2267",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "Trohck",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Zolgia108",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "matyo804",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "cantillon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "Jlam23",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "MC_amp2267",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "Dioferreira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "JonDaBill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "Zolgia108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "DB_romariovidal",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "phazonmutant",
+          "Player2": "yolad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Prim3Time",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "2legit2quit",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "matyo804",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "phazonmutant",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "fatumi",
+          "Player2": "cantillon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "Prim3Time",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "MikeEgan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PedroPolukranos",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "matyo804",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "JonDaBill",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "snoopy-magic",
+          "Player2": "Dioferreira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "DB_romariovidal",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "derlumberzack",
+          "Player2": "snoopy-magic",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Trohck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "PedroPolukranos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "CorvOscuro92",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Jlam23",
+          "Player2": "DB_romariovidal",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "phazonmutant",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MikeEgan",
+          "Player2": "matyo804",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "fatumi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "Prim3Time",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "kozz27",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "cantillon",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "phazonmutant",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "fatumi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JohnDoe397",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CorvOscuro92",
+          "Player2": "JohnDoe397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "himihimi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "CorvOscuro92",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

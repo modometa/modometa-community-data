@@ -1,0 +1,950 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-09-2212854535",
+    "Date": "2026-09-22",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 53,
+    "Source": "legacy-data-collection",
+    "SheetId": "1nCmNRhsz3aTH1BoXCQzTB_vgzI7Bqh-r2V0AqlCWWiY"
+  },
+  "Players": [
+    {
+      "Player": "oskiyaa",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "Varo",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Danielpena397",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "kanican",
+      "Archetype": "Red Stompy"
+    },
+    {
+      "Player": "DrPP",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "Allengar",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "adamwasmo",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "DJK3V1N",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "scalo94",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "PivoUlivo",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "The_shallow_grave",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "Mikebrav",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "rarakkyo",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "Martijn213",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "AlexanderRosdahl",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Grixis Control"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Erik157751",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "Chocolate_Branco",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Mogged",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Nanovo",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "Capitano_CL",
+      "Archetype": "Creative Technique"
+    },
+    {
+      "Player": "MeninoNey",
+      "Archetype": "Living End"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "fazparte",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "maytwer",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Gorzone",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Other Aggro"
+    },
+    {
+      "Player": "Elrube87",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "lunaloveee",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "albertosd87",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Capriccioso",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "rootpon",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Arkmaru",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "_Chamytinho_",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Ale_Mtg",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Other Vial"
+    },
+    {
+      "Player": "DroopyStorm",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "yushi013",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "grymn",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "Zolgia108",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "onelastkiss",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "waves1",
+      "Archetype": "Cradle Control"
+    },
+    {
+      "Player": "matyo804",
+      "Archetype": "Lands"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "Ale_Mtg",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "adamwasmo",
+          "Player2": "grymn",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Capitano_CL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Zolgia108",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chocolate_Branco",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "rootpon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "Arkmaru",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DroopyStorm",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "Capriccioso",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "onelastkiss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Gorzone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "waves1",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "maytwer",
+          "Player2": "albertosd87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mikebrav",
+          "Player2": "fazparte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "matyo804",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "lunaloveee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "scalo94",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "Martijn213",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "Nanovo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Chamytinho_",
+          "Player2": "waves1",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adamwasmo",
+          "Player2": "DJK3V1N",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Arkmaru",
+          "Player2": "matyo804",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "JPA93",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "onelastkiss",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "Chocolate_Branco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "Capriccioso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gorzone",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Allengar",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Martijn213",
+          "Player2": "grymn",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "maytwer",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mikebrav",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Ale_Mtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Zolgia108",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "AlexanderRosdahl",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rootpon",
+          "Player2": "DroopyStorm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "yushi013",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "lunaloveee",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "boytriton",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_INF_",
+          "Player2": "Arkmaru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "adamwasmo",
+          "Player2": "albertosd87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "AlexanderRosdahl",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Elrube87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "habsburger",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Chocolate_Branco",
+          "Player2": "rootpon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "Ark4n",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DroopyStorm",
+          "Player2": "matyo804",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "Mikebrav",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "MeninoNey",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "lunaloveee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Martijn213",
+          "Player2": "Gorzone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "maytwer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "_Chamytinho_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Unlif3",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adamwasmo",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "scalo94",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "lunaloveee",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Capitano_CL",
+          "Player2": "_Chamytinho_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "DJK3V1N",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DominiqueTutor",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "DroopyStorm",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Erik157751",
+          "Player2": "Chocolate_Branco",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Gorzone",
+          "Player2": "Arkmaru",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "AlexanderRosdahl",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Martijn213",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "fazparte",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Mikebrav",
+          "Player2": "maytwer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "DrPP",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "Nanovo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "PivoUlivo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "adamwasmo",
+          "Player2": "PivoUlivo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "choutin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "fazparte",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Chocolate_Branco",
+          "Player2": "Gorzone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DrPP",
+          "Player2": "scalo94",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ecobaronen",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Mogged",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "DroopyStorm",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Nanovo",
+          "Player2": "Capitano_CL",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Martijn213",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "DJK3V1N",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Elrube87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "Mikebrav",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "Danielpena397",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "AlexanderRosdahl",
+          "Player2": "Gorzone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Allengar",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Erik157751",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Danielpena397",
+          "Player2": "DrPP",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Martijn213",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MeninoNey",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mikebrav",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Mogged",
+          "Player2": "Elrube87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "DJK3V1N",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Chocolate_Branco",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "PivoUlivo",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "Capitano_CL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "scalo94",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "fazparte",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "adamwasmo",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Danielpena397",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "adamwasmo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Allengar",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "DrPP",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Danielpena397",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Varo",
+          "Player2": "kanican",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "oskiyaa",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
