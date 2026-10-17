@@ -1,0 +1,910 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-32-2026-10-0612855510",
+    "Date": "2026-10-06",
+    "Name": "Legacy Challenge 32",
+    "PlayerCount": 48,
+    "Source": "legacy-data-collection",
+    "SheetId": "1YCAmx7tI9P-s2kVV1f4QBUsJSovWGCz_IGuwWVOssk0"
+  },
+  "Players": [
+    {
+      "Player": "JPA93",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "grymn",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "olbeda",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "AmadeusPro",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "O_danielakos",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Leylines",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "Harry1232",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "MahfuzVanGogh",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "mizu1015",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "The_shallow_grave",
+      "Archetype": "Mono Black Reanimator"
+    },
+    {
+      "Player": "empiricism",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "choutin",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "reojund",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "Ark4n",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DawsonCreep",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "JUJUBEAN__2004",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "EdSpoon",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "mei0024",
+      "Archetype": "Cephalid Breakfast"
+    },
+    {
+      "Player": "DJK3V1N",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Oceansoul92",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Bawer",
+      "Archetype": "Oops All Spells"
+    },
+    {
+      "Player": "LarthPursenas",
+      "Archetype": "Elves"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "boytriton",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "rarakkyo",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "_Dionysos_",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "novaschin22",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "CardGameAddict",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "Aced5",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Asa_Akira",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "LuRu",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Elrube87",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Venom01",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "morsaaa",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "i_b_TRUE",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "ecobaronen",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Varo",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "Ale_Mtg",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Unlif3",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "Antarctica",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "dgreen16",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "DominiqueTutor",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "Bezerra_da_Silva",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "paragon249",
+      "Archetype": "Black Stompy"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aced5",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "LuRu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CardGameAddict",
+          "Player2": "paragon249",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "mei0024",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EdSpoon",
+          "Player2": "Antarctica",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "Venom01",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "Ale_Mtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "_Dionysos_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "DawsonCreep",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "i_b_TRUE",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "ecobaronen",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JUJUBEAN__2004",
+          "Player2": "dgreen16",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarthPursenas",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leylines",
+          "Player2": "DominiqueTutor",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mizu1015",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "morsaaa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "rarakkyo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "rarakkyo",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "_INF_",
+          "Player2": "Bezerra_da_Silva",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "CardGameAddict",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "_Dionysos_",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "ecobaronen",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "dgreen16",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DawsonCreep",
+          "Player2": "Antarctica",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "Varo",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "EdSpoon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "The_shallow_grave",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "LarthPursenas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "AmadeusPro",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "Aced5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Unlif3",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "Oceansoul92",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "mizu1015",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "paragon249",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "Venom01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "Leylines",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Elrube87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Aced5",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "O_danielakos",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "Venom01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "paragon249",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "DominiqueTutor",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "EdSpoon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "morsaaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarthPursenas",
+          "Player2": "_Dionysos_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leylines",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MahfuzVanGogh",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "i_b_TRUE",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mizu1015",
+          "Player2": "DJK3V1N",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Varo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "mei0024",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "rarakkyo",
+          "Player2": "LuRu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "DawsonCreep",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Asa_Akira",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Dionysos_",
+          "Player2": "LuRu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "manohito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ark4n",
+          "Player2": "LarthPursenas",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "ecobaronen",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "boytriton",
+          "Player2": "i_b_TRUE",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "Cirxi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DawsonCreep",
+          "Player2": "Venom01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EdSpoon",
+          "Player2": "4FunNoWin",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Elrube87",
+          "Player2": "paragon249",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "DJK3V1N",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "mizu1015",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Harry1232",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leylines",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mei0024",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "novaschin22",
+          "Player2": "Varo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "MahfuzVanGogh",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "Aced5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "Oceansoul92",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "paragon249",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "boytriton",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "novaschin22",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Bawer",
+          "Player2": "LarthPursenas",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Asa_Akira",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DawsonCreep",
+          "Player2": "_Dionysos_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DJK3V1N",
+          "Player2": "CardGameAddict",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EdSpoon",
+          "Player2": "mei0024",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "empiricism",
+          "Player2": "Ark4n",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "rarakkyo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Leylines",
+          "Player2": "choutin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LuRu",
+          "Player2": "Elrube87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "mizu1015",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Oceansoul92",
+          "Player2": "Aced5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "O_danielakos",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "reojund",
+          "Result": "0-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "_Dionysos_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "CardGameAddict",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Aced5",
+          "Player2": "Elrube87",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "EdSpoon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Asa_Akira",
+          "Player2": "paragon249",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "choutin",
+          "Player2": "DJK3V1N",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Bawer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DawsonCreep",
+          "Player2": "Oceansoul92",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "empiricism",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Harry1232",
+          "Player2": "mei0024",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "olbeda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LarthPursenas",
+          "Player2": "novaschin22",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Leylines",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "boytriton",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "O_danielakos",
+          "Player2": "mizu1015",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "reojund",
+          "Player2": "Ark4n",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "The_shallow_grave",
+          "Player2": "JUJUBEAN__2004",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "AmadeusPro",
+          "Player2": "O_danielakos",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "grymn",
+          "Player2": "MahfuzVanGogh",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "Harry1232",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "olbeda",
+          "Player2": "Leylines",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "grymn",
+          "Player2": "olbeda",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "JPA93",
+          "Player2": "AmadeusPro",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "JPA93",
+          "Player2": "grymn",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

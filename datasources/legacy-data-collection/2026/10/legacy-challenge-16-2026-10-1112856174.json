@@ -1,0 +1,539 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-16-2026-10-1112856174",
+    "Date": "2026-10-11",
+    "Name": "Legacy Challenge 16",
+    "PlayerCount": 28,
+    "Source": "legacy-data-collection",
+    "SheetId": "1Z26ARxM7YpWDQgVkaBw9EMHV6JZZC4Pb-FAvgy9DPV0"
+  },
+  "Players": [
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "HJ_Kaiser",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "newbrak",
+      "Archetype": "Stoneblade"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "HamAndCheese",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Razdan08",
+      "Archetype": "Blue Painter"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "HoldTheElle",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "powered_by_VANYA",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "Game_Night",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "Capriccioso",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "sandahl123",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Sol-e22558",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "Qweerios",
+      "Archetype": "Stiflenought"
+    },
+    {
+      "Player": "shiromuni",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "pinkochon",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "Kihara_Works",
+      "Archetype": "8Cast"
+    },
+    {
+      "Player": "Trohck",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "yolad",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Aluren"
+    },
+    {
+      "Player": "Tunaktunak",
+      "Archetype": "Mono Green Cloudpost"
+    },
+    {
+      "Player": "lollerstank",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "_Atraxa_",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "33333ot",
+      "Archetype": "Azorius Tempo"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "_Atraxa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "33333ot",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "Game_Night",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "sandahl123",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kihara_Works",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "Qweerios",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "newbrak",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Razdan08",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "pinkochon",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cirxi",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Game_Night",
+          "Player2": "Tunaktunak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "HoldTheElle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Kihara_Works",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "HJ_Kaiser",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "newbrak",
+          "Player2": "pinkochon",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Qweerios",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Razdan08",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "shiromuni",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "_Atraxa_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yolad",
+          "Player2": "33333ot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Cirxi",
+          "Player2": "HamAndCheese",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Game_Night",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "manohito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "33333ot",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "newbrak",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "pinkochon",
+          "Player2": "Kihara_Works",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "shiromuni",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "_Atraxa_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "Qweerios",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "Capriccioso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tunaktunak",
+          "Player2": "lollerstank",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Razdan08",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "yolad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Razdan08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Trohck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "Game_Night",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "HoldTheElle",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "newbrak",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "powered_by_VANYA",
+          "Player2": "Kihara_Works",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "pinkochon",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "shiromuni",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TheGrimLavamancer",
+          "Player2": "HamAndCheese",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Qweerios",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Capriccioso",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "newbrak",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Game_Night",
+          "Player2": "shiromuni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "Razdan08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "powered_by_VANYA",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HoldTheElle",
+          "Player2": "Qweerios",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "pinkochon",
+          "Player2": "lollerstank",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "sandahl123",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sol-e22558",
+          "Player2": "Kihara_Works",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Trohck",
+          "Player2": "Tunaktunak",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Cirxi",
+          "Player2": "Razdan08",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "HamAndCheese",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "newbrak",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "nekoyama2",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "nekoyama2",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
