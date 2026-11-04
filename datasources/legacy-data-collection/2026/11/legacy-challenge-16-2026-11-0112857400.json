@@ -1,0 +1,510 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-16-2026-11-0112857400",
+    "Date": "2026-11-01",
+    "Name": "Legacy Challenge 16",
+    "PlayerCount": 27,
+    "Source": "legacy-data-collection",
+    "SheetId": "1ppeeZ7jLbezO08Tq3H923glrO0NA9KADobjm2kJqkKs"
+  },
+  "Players": [
+    {
+      "Player": "Dioferreira",
+      "Archetype": "Rakdos Reanimator"
+    },
+    {
+      "Player": "Seebsling",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Selfeisek",
+      "Archetype": "Mardu Energy"
+    },
+    {
+      "Player": "unagieel",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "kozz27",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "Eureka22422",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Hogaak Tempo"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "Will_Split",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "RyanWu",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Z4YN",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "hayatatsu",
+      "Archetype": "Hogaak Tempo"
+    },
+    {
+      "Player": "Enrichetta",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "yahakara",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "ScreenwriterNY",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "LegacyGrinder",
+      "Archetype": "Mystic Forge Combo"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Other Control"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Sneak and Show"
+    },
+    {
+      "Player": "Jumba",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "himihimi",
+      "Archetype": "Hogaak Tempo"
+    },
+    {
+      "Player": "jarold9",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "_INF_",
+      "Archetype": "Ninjas"
+    },
+    {
+      "Player": "nao_xx",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "kentaro_hokori",
+      "Archetype": "Beanstalk Control (Non-Yorion)"
+    },
+    {
+      "Player": "clan",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "_INF_",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "yahakara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LegacyGrinder",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "jarold9",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "nao_xx",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Will_Split",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "Enrichetta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Z4YN",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "LegacyGrinder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Eureka22422",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "clan",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "himihimi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Z4YN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "nao_xx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "jarold9",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "_INF_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "Jumba",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Selfeisek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "nekoyama2",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "nao_xx",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kentaro_hokori",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LegacyGrinder",
+          "Player2": "Jumba",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Z4YN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "_INF_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "Eureka22422",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "kozz27",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yahakara",
+          "Player2": "jarold9",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Eureka22422",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "hayatatsu",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "LegacyGrinder",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "nekoyama2",
+          "Player2": "nao_xx",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "jarold9",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "ScreenwriterNY",
+          "Player2": "himihimi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "Enrichetta",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "yahakara",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Will_Split",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Z4YN",
+          "Player2": "kentaro_hokori",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "unagieel",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "yahakara",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "himihimi",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Jumba",
+          "Player2": "kentaro_hokori",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kozz27",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "ScreenwriterNY",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "manohito",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "hayatatsu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Will_Split",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Z4YN",
+          "Player2": "LegacyGrinder",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "kozz27",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Selfeisek",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "unagieel",
+          "Player2": "Eureka22422",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "unagieel",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "Selfeisek",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Dioferreira",
+          "Player2": "Seebsling",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

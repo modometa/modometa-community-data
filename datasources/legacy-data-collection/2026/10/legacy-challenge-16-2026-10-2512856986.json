@@ -1,0 +1,533 @@
+{
+  "Tournament": {
+    "Id": "legacy-challenge-16-2026-10-2512856986",
+    "Date": "2026-10-25",
+    "Name": "Legacy Challenge 16",
+    "PlayerCount": 29,
+    "Source": "legacy-data-collection",
+    "SheetId": "1t6pcjcC1IlPsEG9aabwsclEJbGlh-mGieySdLRdrH6E"
+  },
+  "Players": [
+    {
+      "Player": "kanican",
+      "Archetype": "Sewer-Cam Combo"
+    },
+    {
+      "Player": "WestvalePreacher",
+      "Archetype": "Selesnya Depths"
+    },
+    {
+      "Player": "HellMonkey",
+      "Archetype": "Jeskai Control"
+    },
+    {
+      "Player": "manohito",
+      "Archetype": "Hogaak Moonshadow"
+    },
+    {
+      "Player": "Ryuho090",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "Alaman123",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "HJ_Kaiser",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "OSCA66",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "yoshiwata",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Dandrew",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Seebsling",
+      "Archetype": "Lands"
+    },
+    {
+      "Player": "Cirxi",
+      "Archetype": "Saga Storm"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "Naya Stompy"
+    },
+    {
+      "Player": "RyanWu",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "yolad",
+      "Archetype": "Other Tempo"
+    },
+    {
+      "Player": "habsburger",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "Mywaydowntown",
+      "Archetype": "Death and Taxes - BW (Yorion)"
+    },
+    {
+      "Player": "Kuranari-Jackpa",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "Chairsocket",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "derlumberzack",
+      "Archetype": "Omni-Tell"
+    },
+    {
+      "Player": "ayukawa",
+      "Archetype": "Izzet Tempo"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dimir Tempo"
+    },
+    {
+      "Player": "DarkDepthsAniki",
+      "Archetype": "Golgari Depths"
+    },
+    {
+      "Player": "WadeB",
+      "Archetype": "Esper Control"
+    },
+    {
+      "Player": "TRON_Bahiano",
+      "Archetype": "Eldrazi"
+    },
+    {
+      "Player": "kasa",
+      "Archetype": "Boros Energy"
+    },
+    {
+      "Player": "nekoyama2",
+      "Archetype": "Azorius Tempo"
+    },
+    {
+      "Player": "LuRu",
+      "Archetype": "Tron"
+    },
+    {
+      "Player": "TheGrimLavamancer",
+      "Archetype": "Sneak and Show"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Alaman123",
+          "Player2": "kasa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dandrew",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "habsburger",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "OSCA66",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "yolad",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "ayukawa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Lord_Beerus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "Chairsocket",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TRON_Bahiano",
+          "Player2": "LuRu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WadeB",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Alaman123",
+          "Player2": "Seebsling",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Chairsocket",
+          "Player2": "TheGrimLavamancer",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "yolad",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "kasa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "LuRu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "ayukawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Kuranari-Jackpa",
+          "Player2": "TRON_Bahiano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Dandrew",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "yoshiwata",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Chairsocket",
+          "Player2": "TRON_Bahiano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cirxi",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Dandrew",
+          "Player2": "yolad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "derlumberzack",
+          "Player2": "WadeB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "nekoyama2",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "Ryuho090",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "Seebsling",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "yoshiwata",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "ayukawa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "Alaman123",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "Alaman123",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "ayukawa",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "habsburger",
+          "Player2": "Mywaydowntown",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "TRON_Bahiano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "Dandrew",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "derlumberzack",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "OSCA66",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RyanWu",
+          "Player2": "Chairsocket",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ryuho090",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "yolad",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "manohito",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "WadeB",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "ayukawa",
+          "Player2": "TRON_Bahiano",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Dandrew",
+          "Player2": "Chairsocket",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "habsburger",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HellMonkey",
+          "Player2": "OSCA66",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HJ_Kaiser",
+          "Player2": "Cirxi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "RyanWu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Alaman123",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Mywaydowntown",
+          "Player2": "DarkDepthsAniki",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Seebsling",
+          "Player2": "derlumberzack",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "yoshiwata",
+          "Player2": "Kuranari-Jackpa",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "HellMonkey",
+          "Player2": "HJ_Kaiser",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kanican",
+          "Player2": "Alaman123",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "manohito",
+          "Player2": "Ryuho090",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "OSCA66",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "kanican",
+          "Player2": "manohito",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "WestvalePreacher",
+          "Player2": "HellMonkey",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "kanican",
+          "Player2": "WestvalePreacher",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}

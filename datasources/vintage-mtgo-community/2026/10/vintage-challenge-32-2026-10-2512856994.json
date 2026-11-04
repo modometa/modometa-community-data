@@ -1,0 +1,868 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-10-2512856994",
+    "Date": "2026-10-25",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 45,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "16tCbJVq7rvhkUWklMqL_uyYVAYLJNux7GRNoqzxIV1A"
+  },
+  "Players": [
+    {
+      "Player": "Piedings",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "s063",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "CrazyDiamond513",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "PO"
+    },
+    {
+      "Player": "EnihcamAmgine",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Long_Ears99",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "duke12",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "2345678",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Plagic86",
+      "Archetype": "Jeskai Lurrus"
+    },
+    {
+      "Player": "HamAndCheese",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "4FunNoWin",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "deibu",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "FarmerLGG",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "RickyTrooper",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "SauTay",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "andersoneclair",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Other Shops"
+    },
+    {
+      "Player": "Filho_do_MOL",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "CDiggz",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Devouring Commander",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "morsaaa",
+      "Archetype": "Jeskai Lurrus"
+    },
+    {
+      "Player": "Vonador",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "DethFrmAbove",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Billbuscus",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Wizard_2002",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "SpockVidaLoka",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "MlkmnRob",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "kungfugeek",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Magic_Dads71522",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "SuperCow12653",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Aced5",
+      "Archetype": "Jeskai Lurrus"
+    },
+    {
+      "Player": "discoverN",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "MrxB",
+      "Archetype": "Sphere Shops"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "Blue Control"
+    },
+    {
+      "Player": "GriselSram",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "espiatrianero",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "blackdecks99",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Johnni",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "karatedom",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "BiggestBird",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "JustABee5",
+      "Archetype": "Jeskai Lurrus"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "CDiggz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "blackdecks99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DethFrmAbove",
+          "Player2": "karatedom",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Devouring Commander",
+          "Player2": "Billbuscus",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "discoverN",
+          "Player2": "espiatrianero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "deibu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "jake-upLVT",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "HamAndCheese",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "kungfugeek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "Aced5",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "s063",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RickyTrooper",
+          "Player2": "GriselSram",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "tao_bye_bye",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "MrxB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vonador",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "RickyTrooper",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "CDiggz",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "karatedom",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Devouring Commander",
+          "Player2": "SuperCow12653",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "MlkmnRob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "jake-upLVT",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "MrxB",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "GriselSram",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "kungfugeek",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Long_Ears99",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "espiatrianero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "Aced5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "andersoneclair",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Billbuscus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vonador",
+          "Player2": "DethFrmAbove",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Wizard_2002",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "Plagic86",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "Aced5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "morsaaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CDiggz",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "DethFrmAbove",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Long_Ears99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "RickyTrooper",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "MlkmnRob",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "discoverN",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "Billbuscus",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Magic_Dads71522",
+          "Player2": "JustABee5",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "kungfugeek",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "espiatrianero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "tao_bye_bye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SauTay",
+          "Player2": "Devouring Commander",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "MrxB",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "Vonador",
+          "Player2": "Wizard_2002",
+          "Result": "1-2-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "deibu",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CDiggz",
+          "Player2": "MlkmnRob",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "2345678",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "Wizard_2002",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "MrxB",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "kungfugeek",
+          "Player2": "espiatrianero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "andersoneclair",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Billbuscus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "tao_bye_bye",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "FarmerLGG",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "DethFrmAbove",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "RickyTrooper",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "EnihcamAmgine",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "SauTay",
+          "Player2": "Filho_do_MOL",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "BiggestBird",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "Devouring Commander",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vonador",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "andersoneclair",
+          "Player2": "kungfugeek",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "RickyTrooper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Billbuscus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "2345678",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "Devouring Commander",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "Vonador",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "HamAndCheese",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "jake-upLVT",
+          "Player2": "CDiggz",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "4FunNoWin",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "duke12",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "Magic_Dads71522",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "morsaaa",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "crK",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "Plagic86",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SauTay",
+          "Player2": "Wizard_2002",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "4FunNoWin",
+          "Player2": "andersoneclair",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Billbuscus",
+          "Player2": "SuperCow12653",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "CDiggz",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "2345678",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Devouring Commander",
+          "Player2": "Magic_Dads71522",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "duke12",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "morsaaa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Filho_do_MOL",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "HamAndCheese",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "MlkmnRob",
+          "Player2": "espiatrianero",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "RickyTrooper",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "SauTay",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "Long_Ears99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vonador",
+          "Player2": "kungfugeek",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "CrazyDiamond513",
+          "Player2": "duke12",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Long_Ears99",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Piedings",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Piedings",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "CrazyDiamond513",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Piedings",
+          "Player2": "s063",
+          "Result": "2-1-0"
+        }
+      ]
+    }
+  ]
+}

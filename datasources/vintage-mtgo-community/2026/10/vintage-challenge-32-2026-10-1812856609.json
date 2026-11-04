@@ -1,0 +1,984 @@
+{
+  "Tournament": {
+    "Id": "vintage-challenge-32-2026-10-1812856609",
+    "Date": "2026-10-18",
+    "Name": "Vintage Challenge 32",
+    "PlayerCount": 54,
+    "Source": "vintage-mtgo-community",
+    "SheetId": "1G06RKO3vE5IIAivWX-fXZb_8QMg21vC-osDcCj1nA_c"
+  },
+  "Players": [
+    {
+      "Player": "Pietart",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "espiatrianero",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "DaveKaplan",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "COMBO-BOY",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Plagic86",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Enjoy_The_Silence",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "Cachorrowo",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "BiggestBird",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "2345678",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "FarmerLGG",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "TonyScapone",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "crK",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "EnihcamAmgine",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Sarlanga",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "Enrichetta",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Long_Ears99",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "Johnni",
+      "Archetype": "Jewel Shops"
+    },
+    {
+      "Player": "KadettiKersantti",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "musasabi",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "andersoneclair",
+      "Archetype": "Jeskai Lurrus"
+    },
+    {
+      "Player": "CCdsmash",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "miyamotoET",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "RandyWoodson",
+      "Archetype": "Jeskai Lurrus"
+    },
+    {
+      "Player": "SuperCow12653",
+      "Archetype": "Lurrus PO"
+    },
+    {
+      "Player": "tao_bye_bye",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "SpockVidaLoka",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "LarryDavidYo",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "Tienmtg",
+      "Archetype": "Lurrus Doomsday"
+    },
+    {
+      "Player": "_Batutinha_",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "deibu",
+      "Archetype": "Raker Shops"
+    },
+    {
+      "Player": "s063",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "MarcoIa",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Amiracle",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Vash963",
+      "Archetype": "Oath"
+    },
+    {
+      "Player": "Shadowz2005",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Ayrebus",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "LOFNOTC",
+      "Archetype": "Doomsday"
+    },
+    {
+      "Player": "Univerce",
+      "Archetype": "Beseech Storm"
+    },
+    {
+      "Player": "GriselSram",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "albertosd87",
+      "Archetype": "Other Lurrus"
+    },
+    {
+      "Player": "Lord_Beerus",
+      "Archetype": "Dredge"
+    },
+    {
+      "Player": "Firetruck",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "blacklotusknight",
+      "Archetype": "Lurrus DRS"
+    },
+    {
+      "Player": "Fade",
+      "Archetype": "Lurrus Vault Key"
+    },
+    {
+      "Player": "Redhotphil87",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "LucasG1ggs",
+      "Archetype": "Countervine"
+    },
+    {
+      "Player": "Montolio",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "Capriccioso",
+      "Archetype": "Lurrus Breach"
+    },
+    {
+      "Player": "Vonador",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "GhostPattern",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "JustABee5",
+      "Archetype": "Esper Lurrus Control"
+    },
+    {
+      "Player": "jake-upLVT",
+      "Archetype": "UB Lurrus Control"
+    },
+    {
+      "Player": "VitorCarvalho01",
+      "Archetype": "Initiative"
+    },
+    {
+      "Player": "MyrRetriever",
+      "Archetype": "Countervine"
+    }
+  ],
+  "Rounds": [
+    {
+      "RoundName": "Round 1",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "CCdsmash",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Ayrebus",
+          "Player2": "albertosd87",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "LucasG1ggs",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "blacklotusknight",
+          "Player2": "Fade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Capriccioso",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Sarlanga",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enjoy_The_Silence",
+          "Player2": "Univerce",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "Vonador",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "Long_Ears99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "Montolio",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Firetruck",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Johnni",
+          "Player2": "LarryDavidYo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "GriselSram",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "miyamotoET",
+          "Player2": "tao_bye_bye",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "GhostPattern",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "Plagic86",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "RandyWoodson",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "s063",
+          "Player2": "MyrRetriever",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Amiracle",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "Redhotphil87",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "MarcoIa",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "LOFNOTC",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 2",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "RandyWoodson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "blacklotusknight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "miyamotoET",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "Montolio",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Johnni",
+          "Result": "0-2-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Plagic86",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "GriselSram",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Vonador",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enjoy_The_Silence",
+          "Player2": "2345678",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "musasabi",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "albertosd87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "crK",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "Amiracle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "Tienmtg",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LOFNOTC",
+          "Player2": "VitorCarvalho01",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "GhostPattern",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Lord_Beerus",
+          "Player2": "Fade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "Redhotphil87",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "jake-upLVT",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "s063",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Ayrebus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Univerce",
+          "Player2": "Capriccioso",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Vash963",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 3",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "LarryDavidYo",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Amiracle",
+          "Player2": "LOFNOTC",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ayrebus",
+          "Player2": "Vonador",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "andersoneclair",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "Lord_Beerus",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "TonyScapone",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Long_Ears99",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "Univerce",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "Enjoy_The_Silence",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Fade",
+          "Player2": "GhostPattern",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Johnni",
+          "Player2": "deibu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "miyamotoET",
+          "Player2": "_Batutinha_",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "Firetruck",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "SuperCow12653",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RandyWoodson",
+          "Player2": "blacklotusknight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "KadettiKersantti",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Shadowz2005",
+          "Player2": "VitorCarvalho01",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "Vash963",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "JustABee5",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 4",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "Amiracle",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Ayrebus",
+          "Player2": "Firetruck",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "BiggestBird",
+          "Player2": "FarmerLGG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Vash963",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Cachorrowo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "s063",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enjoy_The_Silence",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "RandyWoodson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "tao_bye_bye",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "KadettiKersantti",
+          "Player2": "miyamotoET",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "Fade",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "LOFNOTC",
+          "Player2": "blacklotusknight",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "_Batutinha_",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "MarcoIa",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "musasabi",
+          "Player2": "deibu",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "CCdsmash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "andersoneclair",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "SpockVidaLoka",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Tienmtg",
+          "Player2": "Lord_Beerus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "crK",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 5",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "2345678",
+          "Player2": "musasabi",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "blacklotusknight",
+          "Result": "1-0-0"
+        },
+        {
+          "Player1": "andersoneclair",
+          "Player2": "LOFNOTC",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "KadettiKersantti",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "CCdsmash",
+          "Player2": "LarryDavidYo",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Enrichetta",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "SuperCow12653",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "Shadowz2005",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Enjoy_The_Silence",
+          "Player2": "EnihcamAmgine",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "TonyScapone",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "Ayrebus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "miyamotoET",
+          "Player2": "Tienmtg",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Plagic86",
+          "Player2": "FarmerLGG",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "RandyWoodson",
+          "Player2": "Vash963",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "Fade",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "tao_bye_bye",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 6",
+      "RoundType": "Swiss",
+      "Matches": [
+        {
+          "Player1": "_Batutinha_",
+          "Player2": "Fade",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Cachorrowo",
+          "Player2": "Tienmtg",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "2345678",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "crK",
+          "Player2": "musasabi",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "Enjoy_The_Silence",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "deibu",
+          "Player2": "LOFNOTC",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "EnihcamAmgine",
+          "Player2": "Johnni",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "Enrichetta",
+          "Player2": "KadettiKersantti",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "Plagic86",
+          "Result": "1-2-0"
+        },
+        {
+          "Player1": "FarmerLGG",
+          "Player2": "RandyWoodson",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "LarryDavidYo",
+          "Player2": "s063",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Long_Ears99",
+          "Player2": "CCdsmash",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "miyamotoET",
+          "Player2": "Shadowz2005",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Sarlanga",
+          "Player2": "andersoneclair",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SpockVidaLoka",
+          "Player2": "MarcoIa",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "SuperCow12653",
+          "Player2": "Ayrebus",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "TonyScapone",
+          "Player2": "tao_bye_bye",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 7",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "COMBO-BOY",
+          "Player2": "Enjoy_The_Silence",
+          "Result": "2-1-0"
+        },
+        {
+          "Player1": "DaveKaplan",
+          "Player2": "BiggestBird",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "espiatrianero",
+          "Player2": "Plagic86",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "Cachorrowo",
+          "Result": "2-1-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 8",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "espiatrianero",
+          "Player2": "COMBO-BOY",
+          "Result": "2-0-0"
+        },
+        {
+          "Player1": "Pietart",
+          "Player2": "DaveKaplan",
+          "Result": "2-0-0"
+        }
+      ]
+    },
+    {
+      "RoundName": "Round 9",
+      "RoundType": "Top8",
+      "Matches": [
+        {
+          "Player1": "Pietart",
+          "Player2": "espiatrianero",
+          "Result": "2-0-0"
+        }
+      ]
+    }
+  ]
+}
